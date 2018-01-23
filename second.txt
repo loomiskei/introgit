@@ -1,5 +1,0 @@
-Gitの練習をしてきます。
-ワークフロー
-3333
-.git add
-.git commit
